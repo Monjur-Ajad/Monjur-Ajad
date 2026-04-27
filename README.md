@@ -1,204 +1,167 @@
-\# 👋 Hi, I'm Monjur Ajad
+# 👋 Hi, I'm Monjur Ajad
 
-
-
-🚀 \*\*Senior Full Stack Developer\*\*
-
-💻 Experts in \*\*Laravel, Next.js, React, Vue.js\*\*
-
+🚀 **Senior Software Engineer | Team Lead | Fintech Specialist**
+💻 Expert in **Laravel, Next.js, React, Vue.js**
 🌍 Based in Bangladesh
+⚡ Building scalable systems, fintech solutions & high-performance applications
 
-⚡ Passionate about building scalable systems \& clean architecture
+---
 
+## 🔥 About Me
 
+* 🧠 6+ years experience in full-stack development
+* 🏗️ Expert in **system architecture & scalable application design**
+* 💳 Built **secure fintech & payment gateway systems**
+* ⚙️ Developed complex **workflow automation systems**
+* 📈 Improved system performance & reduced failures using data-driven optimization
+* 👨‍💼 Leading engineering teams & managing agile workflows (Jira)
 
-\---
+---
 
+## 💼 Work Experience
 
+### 🏢 Senior Software Engineer (Team Lead)
 
-\## 🔥 About Me
+**Softrobotics Bangladesh LTD** *(Nov 2023 – Present)*
 
+* 💳 Built **fintech payment gateway solutions (Turkey market)**
+* 📉 Reduced transaction failures by **15–20%** using advanced error mapping
+* 🎁 Developed cashback & loyalty systems → increased user engagement
+* 👨‍💻 Leading team with **Agile + Jira**, ensuring on-time delivery
 
+---
 
-\* 🧠 Strong knowledge of Backend \& System Design
+### 🏢 Software Engineer
 
-\* ⚙️ Building REST APIs \& Microservices
+**Dhaka Jacos** *(Dec 2021 – Oct 2023)*
 
-\* 🌐 Experience with SSR, SPA \& SEO Optimization
+* ⚙️ Reduced approval workflow time by **30%**
+* 📦 Built inventory & procurement systems with **99% stock accuracy**
+* 📊 Data-driven supplier & procurement optimization
 
-\* 📦 Working with large-scale database systems
+---
 
-\* 🚀 Always learning new technologies \& improving performance
+### 🏢 Software Engineer
 
+**Skill-Based IT (SBIT)** *(2018 – 2021)*
 
+* 🛒 Developed **multi-vendor eCommerce platform (multi-branch)**
+* 🚚 Built **courier & logistics ecosystem (Steadfast-like system)**
+* 🧾 Designed ERP, POS & inventory management systems
 
-\---
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Backend
 
-\## 🛠️ Tech Stack
+* Laravel (PHP)
+* Node.js (Express)
+* REST API / GraphQL
 
+### 🎨 Frontend
 
+* Next.js (SSR, SEO optimized)
+* React.js
+* Vue.js
+* Tailwind CSS / Bootstrap
 
-\### 💻 Backend
+### 🗄️ Database
 
+* MySQL
+* PostgreSQL
+* Redis
 
+### ⚙️ DevOps & Tools
 
-\* Laravel (PHP)
+* Git, GitHub
+* Docker (Basic)
+* Nginx
+* Linux Server
+* Jira, SonarQube
 
-\* REST API 
+---
 
+## 🚀 Key Projects
 
+### 💳 Fintech System (Turkey)
 
-\### 🎨 Frontend
+🔗 https://sipay.com.tr
 
+* Payment gateway integration
+* Error handling & reliability optimization
+* Cashback & loyalty engine
 
+---
 
-\* Next.js (SSR, SEO optimized apps)
+### 🛒 Multi-Vendor E-commerce
 
-\* React.js
+🔗 http://mustaqbalzamzam.com
 
-\* Vue.js
+* Multi-branch architecture
+* Vendor & procurement workflow
+* Rider-based delivery system
 
-\* Tailwind CSS / Bootstrap
+---
 
+### 📦 ERP & Inventory System
 
+🔗 https://bptouch.com
 
-\### 🗄️ Database
+* Stock management & reporting
+* Purchase & transfer workflows
 
+---
 
+### 🏢 Business ERP
 
-\* MySQL
+🔗 https://71consortium.com
 
-\* PostgreSQL
+---
 
-\* Redis
+### 🌐 Corporate Website
 
+🔗 https://hourlyengineer.co.uk
 
+---
 
-\### ⚙️ Tools \& DevOps
+## 📊 GitHub Stats
 
+![Monjur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monjur-Ajad\&show_icons=true\&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monjur-Ajad\&layout=compact\&theme=radical)
 
-\* Git \& GitHub
+---
 
-\* Docker (Basic)
+## 🎓 Education
 
-\* Nginx
+🎓 BSc in CSE — Feni University (CGPA: 3.91/4.00)
+🎓 Diploma in CST — Feni Computer Institute
 
-\* Linux Server Management
+---
 
+## 📫 Contact Me
 
+* 📧 Email: [monjurajad.offical@gmail.com](mailto:monjurajad.offical@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/monjur-ajad
+* 🌐 Portfolio: https://www.monjurajad.com
 
-\---
+---
 
+## ⚡ Extra
 
+* 🔐 Secure Coding & Application Security
+* 📊 Excel & Productivity Optimization
+* 🎨 Graphics & Content Creation
 
-\## 📊 GitHub Stats
+---
 
+## 🌍 Languages
 
+* 🇧🇩 Bangla
+* 🇬🇧 English
+* 🇮🇳 Hindi
 
-!\[Monjur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monjur-Ajad\\\&show\_icons=true\\\&theme=radical)
+---
 
-
-
-!\[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monjur-Ajad\\\&layout=compact\\\&theme=radical)
-
-
-
-\---
-
-
-
-\## 🔥 Featured Projects
-
-
-
-\### 🛒 E-commerce Platform
-
-
-
-\* Full-featured multi-vendor system
-
-\* Laravel Backend + Next.js Frontend
-
-\* Payment Gateway Integration
-
-
-
-\### 📦 Inventory Management System
-
-
-
-\* Advanced stock \& reporting system
-
-\* Role-based access control
-
-
-
-\### 🌍 Multi-language CMS
-
-
-
-\* Dynamic language switching
-
-\* SEO optimized structure
-
-
-
-\---
-
-
-
-\## 🧰 Tools I Use
-
-
-
-!\[VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge\\\&logo=visualstudiocode)
-
-!\[Laravel](https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge\\\&logo=laravel)
-
-!\[React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge\\\&logo=react)
-
-!\[Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge\\\&logo=next.js)
-
-!\[Vue](https://img.shields.io/badge/Framework-Vue.js-green?style=for-the-badge\\\&logo=vue.js)
-
-
-
-\---
-
-
-
-\## 📫 Contact Me
-
-
-
-\* 📧 Email: \[monjurajad.offical@gmail.com](mailto:monjurajad.offical@gmail.com)
-
-\* 💼 LinkedIn: https://linkedin.com/in/monjur-ajad
-
-\* 🌐 Portfolio: https://monjurajad.com
-
-
-
-\---
-
-
-
-\## ⚡ Fun Fact
-
-
-
-💡 I love solving complex problems \& turning ideas into real-world applications 🚀
-
-
-
-\---
-
-
-
-⭐️ From \[YOUR\_USERNAME](https://github.com/Monjur-Ajad)
-
-
-
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
