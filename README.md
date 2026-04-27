@@ -136,7 +136,7 @@
 ## 🎓 Education
 
 🎓 BSc in CSE — Feni University (CGPA: 3.91/4.00)
-🎓 Diploma in CST — Feni Computer Institute
+🎓 Diploma in CST — Feni Computer Institute (CGPA: 3.12/4.00)
 
 ---
 
